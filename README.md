@@ -1,3 +1,5 @@
+Visit https://clone-60d2b.web.app/ to see the deployed version of this app
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
